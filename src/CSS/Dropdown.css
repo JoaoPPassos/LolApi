@@ -1,0 +1,17 @@
+.leaguesDropdown{
+  height: 2em;
+  width: 15em;
+}
+
+.scheduleDropdown{
+  height: 2em;
+  width: 20em;
+}
+
+.dropdowns{
+  height: 3em;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}

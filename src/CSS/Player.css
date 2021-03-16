@@ -1,0 +1,52 @@
+.playerArea{
+  height: 4.3em;
+  width: 80%;
+  background-color: white;
+  margin-top: 1.4em;
+  align-self: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.playerInfos{
+  height: 100%;
+  width: 10em;
+  align-self: center;
+  align-content: flex-start;
+  flex-direction: column;
+}
+
+.playerInfos >h3{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.playerInfos >h4{
+  margin-top: 0;
+}
+
+.ingameInfos{
+  margin-top: 0.5em;
+  height: 3em;
+  width: 15em;
+  border: solid 1px;
+  border-radius: 25px;
+  align-items: center;
+  display: flex;
+}
+
+.kda{
+  margin-left: 2em;
+  font-size: 25px;
+  font-family:monospace;  
+}
+
+.gold{
+  font-size: 18px;
+  color:black;
+}
+
+.creep{
+  font-size: 18px;
+  color:black;
+}
